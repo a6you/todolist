@@ -1,0 +1,12 @@
+#container {
+    border-style: solid;
+    border-color: black;
+    width: 683px;
+  }
+  
+#display {
+    border-style: solid;
+    border-color: black;
+    height: 1em;
+    width: 683px;
+  }
